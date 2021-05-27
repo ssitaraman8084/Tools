@@ -1,0 +1,23 @@
+ctrl A --> bind key
+
+
+bindkey + ! --> create the split panes into two diff panes
+
+bindkey + x --> kill pane
+        + - --> split horizontally
+        + | ---> vertically
+
+bindkey + [ ---> edit mode then hit space to copy the text and hit enter open vi and then hit bindkey + ] will paste it 
+
+bindkey + z ---> zome to the current pane
+
+bindkey + space --> change the layout
+
+bindkey + s ---> send pane to 
+bindkey + j ---> join pane from
+
+bindkey + [ and then hit ? to search a word from top to down and similarly 
+bindkey + [ and then hit / to search a word from bottom to up
+
+use n and N to move with search up and down
+
